@@ -1,10 +1,10 @@
-## Project: Will a Customer Accept the Coupon?
+#### Project: Will a Customer Accept the Coupon?
 When driving through town and a coupon is delivered to cell phone of a driver for nearby restaraunt or bar or coffee house. Would driver accept that coupon?
 
-## Approach
+#### Approach
 Used visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
-## Findings
+#### Findings
 - Original dataset has <B>12684</B> rows and <B>26</B> columns. There were <B>74</B> duplicate rows. Duplicate rows removed
 
 - There are six columns with missing values and more than <B>99%</B> of the 'car' feaure values are missing
@@ -24,12 +24,12 @@ Used visualizations and probability distributions to distinguish between custome
   - Drivers with friend(s) as passenger accepts <B>higher percentage</B> of coffee coupons.
   - Approximtely same percentage of coffee coupons accepted by gender basis
   
-## Project Notebook
+#### Project Notebook
 https://github.com/rthuraga/projects/
 
-## Authors
+#### Authors
 Ravinder Thuraga
 
-## Versions
+#### Versions
 - 0.1
   - Initial Release
